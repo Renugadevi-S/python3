@@ -1,4 +1,4 @@
-
+#This is for adding elements in the list
 def sum():
     ar=[1,2,3,4]
     sum=0
@@ -7,4 +7,4 @@ def sum():
     return sum
 
 sum()
-res=print(sum)
+result=print(sum)
